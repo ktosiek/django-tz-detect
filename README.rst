@@ -111,7 +111,7 @@ Installation
    .. code-block:: python
 
        # Session key to use, defaults to "detected_tz"
-       TZ_SESSOIN_KEY = "my-session-key"
+       TZ_SESSION_KEY = "my-session-key"
 
 Please see ``example`` application. This application is used to manually
 test the functionalities of this package. This also serves as a good
